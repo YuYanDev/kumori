@@ -1,0 +1,14 @@
+{
+  "name": "kumori",
+  "version": "0.0.1",
+  "description": "A JavaScript Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kumori"
+  ],
+  "author": "YuYanDev",
+  "license": "BSD-2-Clause"
+}
